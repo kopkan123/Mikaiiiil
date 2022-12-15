@@ -1,0 +1,15 @@
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.csproj.AssemblyReference.cache
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.AssemblyInfoInputs.cache
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.AssemblyInfo.cs
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.csproj.CoreCompileInputs.cache
+C:\Users\Mikail\Desktop\Seminar\list0\bin\Debug\net6.0\list0.exe
+C:\Users\Mikail\Desktop\Seminar\list0\bin\Debug\net6.0\list0.deps.json
+C:\Users\Mikail\Desktop\Seminar\list0\bin\Debug\net6.0\list0.runtimeconfig.json
+C:\Users\Mikail\Desktop\Seminar\list0\bin\Debug\net6.0\list0.dll
+C:\Users\Mikail\Desktop\Seminar\list0\bin\Debug\net6.0\list0.pdb
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.dll
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\refint\list0.dll
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.pdb
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\list0.genruntimeconfig.cache
+C:\Users\Mikail\Desktop\Seminar\list0\obj\Debug\net6.0\ref\list0.dll
